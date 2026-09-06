@@ -4,15 +4,6 @@
 
 </div>
 
-<h1 align="center">Zentsy</h1>
-
-<p align="center">
-  <strong>Mechatronics Engineering · Artificial Intelligence · Research · Creative Technology</strong>
-</p>
-
-<p align="center">
-  Building things where <strong>engineering meets intelligence and imagination.</strong>
-</p>
 
 ---
 
